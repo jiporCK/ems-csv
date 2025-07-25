@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="json-converter">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/istad/java/libraries/jackson-annotations-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/istad/java/libraries/jackson-core-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/istad/java/libraries/jackson-databind-2.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
